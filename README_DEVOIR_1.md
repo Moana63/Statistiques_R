@@ -2,7 +2,7 @@ Satisfaction à l'hôpital
 
 Ce devoir porte sur une étude évaluant la qualité de relation et la quantité d’information reçue par des patients lors d'un séjour à l’hôpital. 534 patients ont été recrutés sur plusieurs hôpitaux de la région parisienne.
 
-Télécharger les fichiers ci-dessous :
+Télécharger les fichiers suivants (jeu de données et descriptif des variables):
 
     Fichier satisfaction_hopital.csv
 
